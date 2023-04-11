@@ -10,8 +10,8 @@
 
 ## Topics
 
-- [Folien MIR Allgemein](sessions/00_mir_intro_jupyter/mir_general.pdf)
-- [Jupyter Notebooks](sessions/00_mir_intro_jupyter/jupyter%20notebook.md) ([.ipynb](sessions/00_mir_intro_jupyter/jupyter%20notebook.ipynb))
+- [Folien MIR Allgemein](/sessions/00_mir_intro_jupyter/mir_general.pdf)
+- [Jupyter Notebooks](/sessions/00_mir_intro_jupyter/jupyter%20notebook.md) ([.ipynb](/sessions/00_mir_intro_jupyter/jupyter%20notebook.ipynb))
 
 ### Future Topics
 
