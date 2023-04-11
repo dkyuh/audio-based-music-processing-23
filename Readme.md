@@ -2,7 +2,7 @@
 
 ## Sessions
 
-- **[11. April 2022 | MIR Allgemein](/sessions/00_mir_intro_jupyter/00_mir_intro_jupyter)**
+- **[11. April 2022 | MIR Allgemein](/sessions/00_mir_intro_jupyter/00_mir_intro_jupyter.md)**
 
 ## Übungsblätter
 
