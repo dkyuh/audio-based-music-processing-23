@@ -2,44 +2,33 @@
 
 ## Sessions
 
-- **[11. April 2022 | MIR Allgemein](/sessions/00_mir_intro_jupyter/00_mir_intro_jupyter.md)**
+- **[11. April 2023 | MIR Allgemein](/sessions/00_mir_intro_jupyter/00_mir_intro_jupyter.md)**
+- **[18. April 2023 | Numpy pt. 1](/sessions/01_numpy_part_1/01_numpy_part_1.md)** ([.ipynb](/sessions/01_numpy_part_1/01_numpy_part_1.ipynb))
 
 ## Übungsblätter
 
 - 
 
-## Topics
-
-- [Folien MIR Allgemein](/sessions/00_mir_intro_jupyter/mir_general.pdf)
-- [Jupyter Notebooks](/sessions/00_mir_intro_jupyter/jupyter%20notebook.md) ([.ipynb](/sessions/00_mir_intro_jupyter/jupyter%20notebook.ipynb))
-
 ### Future Topics
 
-- FFT in real-time applications
-- Interpolation
-- Track Separation using SMS-Tools
-- (Acoustic Environment Analysis)
+- Sinus generieren
+- Frequenzen - Pitches - MIDI
+- Mathematik-Grundlagen
 - Onset Detection
 - f0-estimation
 - git
-- Markdown
-- Jupyter Notebooks
-- MIR allgemein
-- NumPy
-- Matplotlib
-- Mathematik-Grundlagen
-- Python
-- Sinus generieren
-- Frequenzen - Pitches - MIDI
 - Time-Framing
 - komplexe_zahlen_operationen slides
 - Chord Recognition (advanced)
 - Chord Recognition (template based)
 - Chord Recognition using Hidden Markov Models (HMM) decoded with Viterbi-Algorithm
 - Diskrete Fourier Transformation
-- (Discrete) Shoft Time Fourier Transform
+- (Discrete) Short Time Fourier Transform
+- FFT in real-time applications
 - Logarithm-Frequency-Scaled Spectrogram
+- Interpolation
 - Nonnegative Matrix Factorization
-- Novetly based Temporal Segmentation (advanced)
+- Novelty based Temporal Segmentation (advanced)
+- Track Separation using SMS-Tools
 - More Audio Features
 - Clustering
