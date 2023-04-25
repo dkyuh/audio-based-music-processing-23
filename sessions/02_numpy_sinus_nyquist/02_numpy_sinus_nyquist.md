@@ -1,0 +1,3 @@
+- [Numpy pt. 2](/sessions/02_numpy_sinus_nyquist/02_numpy_pt_2.md) ([.ipynb](/sessions/02_numpy_sinus_nyquist/02_numpy_pt_2.ipynb))
+- [Sinus generieren](/sessions/02_numpy_sinus_nyquist/02_sinus_generieren.md) ([.ipynb](/sessions/02_numpy_sinus_nyquist/02_sinus_generieren.ipynb))
+- [Nyquist](/sessions/02_numpy_sinus_nyquist/02_nyquist.md) ([.ipynb](/sessions/02_numpy_sinus_nyquist/02_nyquist.ipynb))
