@@ -1,0 +1,3 @@
+- [Folien](/sessions/04_komplexe_zahlen/folien_komplexe_zahlen_operationen%20slides.pdf)
+- [Übungen zu komplexen Zahlen](/sessions/04_komplexe_zahlen/uebungen_zu_komplexen_zahlen.md) ([.ipynb](/sessions/04_komplexe_zahlen/uebungen_zu_komplexen_zahlen.ipynb))
+- [geogebra](/data/geogebra/)

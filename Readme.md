@@ -6,11 +6,13 @@
 - **[18. April 2023 | Numpy pt. 1](/sessions/01_numpy_part_1/01_numpy_part_1.md)** ([.ipynb](/sessions/01_numpy_part_1/01_numpy_part_1.ipynb))
 - **[25. April 2023 | Numpy pt. 2, Sinus, Nyquist](/sessions/02_numpy_sinus_nyquist/)**
 - **[02. Mai 2023 | MIDI, Time-Framing](/sessions/03_midi_timeframing/03_midi_timeframing.md)**
+- **[09. Mai 2023 | Komplexe Zahlen](/sessions/04_komplexe_zahlen/Readme_komplexe_zahlen.md)**
 
 ## Übungsblätter
 
 - Abgabe: 10. Mai 2023 (23:59) [ueb_01_freq_mod](/uebungsblaetter/ueb_01_freq_mod.ipynb)
 - Abgabe: 22. Mai 2023 (23:59) [ueb_02_midi_rms](/uebungsblaetter/ueb_02_midi_rms.ipynb)
+- Abgabe: 26. Mai 2023 (23:59) [ueb_03_komplexe_zahlen](/uebungsblaetter/ueb_03_komplexe_zahlen.ipynb)
 
 ### Topics
 
@@ -22,10 +24,10 @@
 - [Frequenzen - Pitches - MIDI](/topics/frequenz_pitches_midi.md)
 - [Time-Framing / Windowing](/topics/time_framing.md)
 - [Mathematik-Grundlagen](/topics/Mathematik-Grundlagen.md)
+- [komplexe Zahlen](/sessions/04_komplexe_zahlen/folien_komplexe_zahlen_operationen%20slides.pdf) ([geogebra](/data/geogebra/))
 
 ### Future Topics
 
-- komplexe Zahlen
 - e-Funktion mit komplexen Zahlen
 - Ähnlichkeitsmaß
 - Winding Machine / Discrete Fourier Transform
