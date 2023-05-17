@@ -7,6 +7,7 @@
 - **[25. April 2023 | Numpy pt. 2, Sinus, Nyquist](/sessions/02_numpy_sinus_nyquist/)**
 - **[02. Mai 2023 | MIDI, Time-Framing](/sessions/03_midi_timeframing/03_midi_timeframing.md)**
 - **[09. Mai 2023 | Komplexe Zahlen](/sessions/04_komplexe_zahlen/Readme_komplexe_zahlen.md)**
+- **[16. Mai 2023 | Komplexe Zahlen in Python, e-Funktion mit komplexen Zahlen](/sessions/05_cmplxnbpy_eulerid/complex_numbers_in_python_e_function.md)** ([folien_euler slides](/sessions/05_cmplxnbpy_eulerid/folien_euler%20slides.pdf))
 
 ## Übungsblätter
 
@@ -24,11 +25,12 @@
 - [Frequenzen - Pitches - MIDI](/topics/frequenz_pitches_midi.md)
 - [Time-Framing / Windowing](/topics/time_framing.md)
 - [Mathematik-Grundlagen](/topics/Mathematik-Grundlagen.md)
-- [komplexe Zahlen](/sessions/04_komplexe_zahlen/folien_komplexe_zahlen_operationen%20slides.pdf) ([geogebra](/data/geogebra/))
+- [komplexe Zahlen](/sessions/04_komplexe_zahlen/folien_komplexe_zahlen_operationen%20slides.pdf) ([geogebra](/data/geogebra))
+- [Komplexe Zahlen in Python](/sessions/05_cmplxnbpy_eulerid/complex_numbers_in_python_e_function.md) ([geogebra](/data/geogebra))
+- [e-Funktion mit komplexen Zahlen](/sessions/05_cmplxnbpy_eulerid/folien_euler%20slides.pdf)
 
 ### Future Topics
 
-- e-Funktion mit komplexen Zahlen
 - Ähnlichkeitsmaß
 - Winding Machine / Discrete Fourier Transform
 - Heisenberg's Uncertainty
