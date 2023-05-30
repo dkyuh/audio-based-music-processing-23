@@ -9,6 +9,7 @@
 - **[09. Mai 2023 | Komplexe Zahlen](/sessions/04_komplexe_zahlen/Readme_komplexe_zahlen.md)**
 - **[16. Mai 2023 | Komplexe Zahlen in Python, e-Funktion mit komplexen Zahlen](/sessions/05_cmplxnbpy_eulerid/complex_numbers_in_python_e_function.md)** ([folien_euler slides](/sessions/05_cmplxnbpy_eulerid/folien_euler%20slides.pdf))
 - **[23. Mai 2023 | Winding Machine, Diskrete Fourier Transformation](/sessions/06_winding_machine/06_winding_machine.md) ([.ipynb](/sessions/06_winding_machine/06_winding_machine.ipynb))**
+- **[30. Mai 2023 | DFT-Eigenschaften, Heisenberg](/sessions/07_dft_eigenschaften_uncertainty/07_dft_eigenschaften_uncertainty.md) ([.ipynb](/sessions/07_dft_eigenschaften_uncertainty/07_dft_eigenschaften_uncertainty.ipynb))**
 
 ## Übungsblätter
 
@@ -16,6 +17,7 @@
 - Abgabe: 22. Mai 2023 (23:59) [ueb_02_midi_rms](/uebungsblaetter/ueb_02_midi_rms.ipynb)
 - Abgabe: 26. Mai 2023 (23:59) [ueb_03_komplexe_zahlen](/uebungsblaetter/ueb_03_komplexe_zahlen.ipynb)
 - Abgabe: 6. Juni 2023 (23:59) [ueb_04_dft_eigenschaften](/uebungsblaetter/ueb_04_dft_eigenschaften.ipynb)
+- Abgabe: 13. Juni 2023 (23:59) [ueb_05_stft](/uebungsblaetter/ueb_05_stft.ipynb)
 
 ### Topics
 
@@ -32,10 +34,10 @@
 - [e-Funktion mit komplexen Zahlen](/sessions/05_cmplxnbpy_eulerid/folien_euler%20slides.pdf)
 - Ähnlichkeitsmaß
 - [Winding Machine / Discrete Fourier Transform](/sessions/06_winding_machine/06_winding_machine.md) ([.ipynb](/sessions/06_winding_machine/06_winding_machine.ipynb))
+- [DFT-Eigenschaften, Heisenberg's Uncertainty](/sessions/07_dft_eigenschaften_uncertainty/07_dft_eigenschaften_uncertainty.md) ([.ipynb](/sessions/07_dft_eigenschaften_uncertainty/07_dft_eigenschaften_uncertainty.ipynb))
 
 ### Future Topics
 
-- Heisenberg's Uncertainty
 - (Discrete) Short Time Fourier Transform
 - Logarithm-Frequency-Scaled Spectrogram
 - Chromagram
