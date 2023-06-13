@@ -11,6 +11,7 @@
 - **[23. Mai 2023 | Winding Machine, Diskrete Fourier Transformation](/sessions/06_winding_machine/06_winding_machine.md) ([.ipynb](/sessions/06_winding_machine/06_winding_machine.ipynb))**
 - **[30. Mai 2023 | DFT-Eigenschaften, Heisenberg](/sessions/07_dft_eigenschaften_uncertainty/07_dft_eigenschaften_uncertainty.md) ([.ipynb](/sessions/07_dft_eigenschaften_uncertainty/07_dft_eigenschaften_uncertainty.ipynb))**
 - **[06. Juni 2023 | STFT](/sessions/08_stft/08_stft.md) ([.ipynb](/sessions/08_stft/08_stft.ipynb))**
+- **[13. Juni 2023 | Effects of Window Function and Window Size](/sessions/09_window_function_window_size/09_window_function_window_size.md) ([.ipynb](/sessions/09_window_function_window_size/09_window_function_window_size.ipynb))**
 
 ## Übungsblätter
 
@@ -20,6 +21,7 @@
 - Abgabe: 6. Juni 2023 (23:59) [ueb_04_dft_eigenschaften](/uebungsblaetter/ueb_04_dft_eigenschaften.ipynb)
 - Abgabe: 13. Juni 2023 (23:59) [ueb_05_stft](/uebungsblaetter/ueb_05_stft.ipynb)
 - Abgabe: 20. Juni 2023 (23:59) [ueb_06_logfreqspec](/uebungsblaetter/ueb_06_logfreqspec.ipynb)
+- Abgabe: 27. Juni 2023 (23:59) [ueb_07_chroma](/uebungsblaetter/ueb_07_chroma.ipynb)
 
 ### Topics
 
@@ -38,22 +40,21 @@
 - [Winding Machine / Discrete Fourier Transform](/sessions/06_winding_machine/06_winding_machine.md) ([.ipynb](/sessions/06_winding_machine/06_winding_machine.ipynb))
 - [DFT-Eigenschaften, Heisenberg's Uncertainty](/sessions/07_dft_eigenschaften_uncertainty/07_dft_eigenschaften_uncertainty.md) ([.ipynb](/sessions/07_dft_eigenschaften_uncertainty/07_dft_eigenschaften_uncertainty.ipynb))
 - [(Discrete) Short Time Fourier Transform](/sessions/08_stft/08_stft.md) ([.ipynb](/sessions/08_stft/08_stft.ipynb))
+- [Logarithm-Frequency-Scaled Spectrogram](/uebungsblaetter/ueb_06_logfreqspec.ipynb)
+- [Effects of Window Function and Window Size](/sessions/09_window_function_window_size/09_window_function_window_size.md) ([.ipynb](/sessions/09_window_function_window_size/09_window_function_window_size.ipynb))
+- [Chromagram](/uebungsblaetter/ueb_07_chroma.ipynb)
 
 ### Future Topics
 
-- Window-Function Effect
-- Window-Size Effect
-- Logarithm-Frequency-Scaled Spectrogram
-- Chromagram
-- Onset Detection
+- More Audio Features
 - f0-estimation
-- git
+- Onset Detection
 - Chord Recognition (template based)
 - FFT in real-time applications
 - Nonnegative Matrix Factorization
 - Novelty-based Temporal Segmentation (advanced)
 - Track Separation using SMS-Tools
-- More Audio Features
 - Clustering
 - Chord Recognition (advanced)
 - Chord Recognition using Hidden Markov Models (HMM) decoded with Viterbi-Algorithm
+- git
