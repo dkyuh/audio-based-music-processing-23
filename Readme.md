@@ -12,6 +12,7 @@
 - **[30. Mai 2023 | DFT-Eigenschaften, Heisenberg](/sessions/07_dft_eigenschaften_uncertainty/07_dft_eigenschaften_uncertainty.md) ([.ipynb](/sessions/07_dft_eigenschaften_uncertainty/07_dft_eigenschaften_uncertainty.ipynb))**
 - **[06. Juni 2023 | STFT](/sessions/08_stft/08_stft.md) ([.ipynb](/sessions/08_stft/08_stft.ipynb))**
 - **[13. Juni 2023 | Effects of Window Function and Window Size](/sessions/09_window_function_window_size/09_window_function_window_size.md) ([.ipynb](/sessions/09_window_function_window_size/09_window_function_window_size.ipynb))**
+- **[20. Juni 2023 | Loop-Vermeidung, More Audio Features pt. 1](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.md) ([.ipynb](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.ipynb))**
 
 ## Übungsblätter
 
@@ -22,6 +23,7 @@
 - Abgabe: 13. Juni 2023 (23:59) [ueb_05_stft](/uebungsblaetter/ueb_05_stft.ipynb)
 - Abgabe: 20. Juni 2023 (23:59) [ueb_06_logfreqspec](/uebungsblaetter/ueb_06_logfreqspec.ipynb)
 - Abgabe: 27. Juni 2023 (23:59) [ueb_07_chroma](/uebungsblaetter/ueb_07_chroma.ipynb)
+- Abgabe: 04. Juni 2023 (23:59) [ueb_08_kmeans_clustering](/uebungsblaetter/ueb_08_kmeans_clustering.ipynb)
 
 ### Topics
 
@@ -43,10 +45,11 @@
 - [Logarithm-Frequency-Scaled Spectrogram](/uebungsblaetter/ueb_06_logfreqspec.ipynb)
 - [Effects of Window Function and Window Size](/sessions/09_window_function_window_size/09_window_function_window_size.md) ([.ipynb](/sessions/09_window_function_window_size/09_window_function_window_size.ipynb))
 - [Chromagram](/uebungsblaetter/ueb_07_chroma.ipynb)
+- More Audio Features ([pt. 1](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.md), [.ipynb](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.ipynb))
 
 ### Future Topics
 
-- More Audio Features
+- Clustering
 - f0-estimation
 - Onset Detection
 - Chord Recognition (template based)
@@ -54,7 +57,5 @@
 - Nonnegative Matrix Factorization
 - Novelty-based Temporal Segmentation (advanced)
 - Track Separation using SMS-Tools
-- Clustering
 - Chord Recognition (advanced)
 - Chord Recognition using Hidden Markov Models (HMM) decoded with Viterbi-Algorithm
-- git
