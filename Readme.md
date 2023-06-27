@@ -13,6 +13,7 @@
 - **[06. Juni 2023 | STFT](/sessions/08_stft/08_stft.md) ([.ipynb](/sessions/08_stft/08_stft.ipynb))**
 - **[13. Juni 2023 | Effects of Window Function and Window Size](/sessions/09_window_function_window_size/09_window_function_window_size.md) ([.ipynb](/sessions/09_window_function_window_size/09_window_function_window_size.ipynb))**
 - **[20. Juni 2023 | Loop-Vermeidung, More Audio Features pt. 1](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.md) ([.ipynb](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.ipynb))**
+- **[27. Juni 2023 | More Audio Features pt. 2](/sessions/11_more_audio_features_pt_2/11_more_audio_features_pt_2.md) ([.ipynb](/sessions/11_more_audio_features_pt_2/11_more_audio_features_pt_2.ipynb))**
 
 ## Übungsblätter
 
@@ -23,9 +24,9 @@
 - Abgabe: 13. Juni 2023 (23:59) [ueb_05_stft](/uebungsblaetter/ueb_05_stft.ipynb)
 - Abgabe: 20. Juni 2023 (23:59) [ueb_06_logfreqspec](/uebungsblaetter/ueb_06_logfreqspec.ipynb)
 - Abgabe: 27. Juni 2023 (23:59) [ueb_07_chroma](/uebungsblaetter/ueb_07_chroma.ipynb)
-- Abgabe: 04. Juni 2023 (23:59) [ueb_08_kmeans_clustering](/uebungsblaetter/ueb_08_kmeans_clustering.ipynb)
+- Abgabe: 04. Juli 2023 (23:59) [ueb_08_kmeans_clustering](/uebungsblaetter/ueb_08_kmeans_clustering.ipynb)
 
-### Topics
+## Topics
 
 - [MIR Allgemein](/sessions/00_mir_intro_jupyter/mir_general.pdf)
 - [Markdown](/topics/markdown.md)
@@ -45,9 +46,9 @@
 - [Logarithm-Frequency-Scaled Spectrogram](/uebungsblaetter/ueb_06_logfreqspec.ipynb)
 - [Effects of Window Function and Window Size](/sessions/09_window_function_window_size/09_window_function_window_size.md) ([.ipynb](/sessions/09_window_function_window_size/09_window_function_window_size.ipynb))
 - [Chromagram](/uebungsblaetter/ueb_07_chroma.ipynb)
-- More Audio Features ([pt. 1](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.md), [.ipynb](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.ipynb))
+- More Audio Features ([pt. 1](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.md), [.ipynb](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.ipynb); [pt. 2](/sessions/11_more_audio_features_pt_2/11_more_audio_features_pt_2.md), [.ipynb](/sessions/11_more_audio_features_pt_2/11_more_audio_features_pt_2.ipynb))
 
-### Future Topics
+## Future Topics
 
 - Clustering
 - f0-estimation
