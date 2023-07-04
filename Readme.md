@@ -14,6 +14,7 @@
 - **[13. Juni 2023 | Effects of Window Function and Window Size](/sessions/09_window_function_window_size/09_window_function_window_size.md) ([.ipynb](/sessions/09_window_function_window_size/09_window_function_window_size.ipynb))**
 - **[20. Juni 2023 | Loop-Vermeidung, More Audio Features pt. 1](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.md) ([.ipynb](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.ipynb))**
 - **[27. Juni 2023 | More Audio Features pt. 2](/sessions/11_more_audio_features_pt_2/11_more_audio_features_pt_2.md) ([.ipynb](/sessions/11_more_audio_features_pt_2/11_more_audio_features_pt_2.ipynb))**
+- **[4. Juli 2023 | Exp. Oneshot Clustering](/sessions/12_oneshot_clustering/12_oneshot_clustering.md) ([.ipynb](/sessions/12_oneshot_clustering/12_oneshot_clustering.ipynb))**
 
 ## Übungsblätter
 
@@ -47,16 +48,19 @@
 - [Effects of Window Function and Window Size](/sessions/09_window_function_window_size/09_window_function_window_size.md) ([.ipynb](/sessions/09_window_function_window_size/09_window_function_window_size.ipynb))
 - [Chromagram](/uebungsblaetter/ueb_07_chroma.ipynb)
 - More Audio Features ([pt. 1](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.md), [.ipynb](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.ipynb); [pt. 2](/sessions/11_more_audio_features_pt_2/11_more_audio_features_pt_2.md), [.ipynb](/sessions/11_more_audio_features_pt_2/11_more_audio_features_pt_2.ipynb))
+- Clustering
+	- siehe [Übungsblatt 08](/uebungsblaetter/ueb_08_kmeans_clustering.ipynb)
+	- [Exp. Oneshot Clustering](/sessions/12_oneshot_clustering/12_oneshot_clustering.md) ([.ipynb](/sessions/12_oneshot_clustering/12_oneshot_clustering.ipynb))
 
 ## Future Topics
 
-- Clustering
+- Chord Recognition (template based)
+- Nonnegative Matrix Factorization
+
 - f0-estimation
 - Onset Detection
-- Chord Recognition (template based)
 - FFT in real-time applications
-- Nonnegative Matrix Factorization
-- Novelty-based Temporal Segmentation (advanced)
 - Track Separation using SMS-Tools
-- Chord Recognition (advanced)
+
+- Novelty-based Temporal Segmentation (advanced)
 - Chord Recognition using Hidden Markov Models (HMM) decoded with Viterbi-Algorithm
