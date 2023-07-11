@@ -15,6 +15,7 @@
 - **[20. Juni 2023 | Loop-Vermeidung, More Audio Features pt. 1](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.md) ([.ipynb](/sessions/10_avoid_loop_more_audio_features/10_avoid_loop_more_audio_features.ipynb))**
 - **[27. Juni 2023 | More Audio Features pt. 2](/sessions/11_more_audio_features_pt_2/11_more_audio_features_pt_2.md) ([.ipynb](/sessions/11_more_audio_features_pt_2/11_more_audio_features_pt_2.ipynb))**
 - **[4. Juli 2023 | Exp. Oneshot Clustering](/sessions/12_oneshot_clustering/12_oneshot_clustering.md) ([.ipynb](/sessions/12_oneshot_clustering/12_oneshot_clustering.ipynb))**
+- **[11. Juli 2023 | Exp. Template-based Chord Recognition](/sessions/13_template_based_chord_recognition/13_template_based_chord_recognition.md) ([.ipynb](/sessions/13_template_based_chord_recognition/13_template_based_chord_recognition.ipynb))**
 
 ## Übungsblätter
 
@@ -51,10 +52,10 @@
 - Clustering
 	- siehe [Übungsblatt 08](/uebungsblaetter/ueb_08_kmeans_clustering.ipynb)
 	- [Exp. Oneshot Clustering](/sessions/12_oneshot_clustering/12_oneshot_clustering.md) ([.ipynb](/sessions/12_oneshot_clustering/12_oneshot_clustering.ipynb))
+- [Exp. Template-based Chord Recognition](/sessions/13_template_based_chord_recognition/13_template_based_chord_recognition.md) ([.ipynb](/sessions/13_template_based_chord_recognition/13_template_based_chord_recognition.ipynb))
 
 ## Future Topics
 
-- Chord Recognition (template based)
 - Nonnegative Matrix Factorization
 
 - f0-estimation
